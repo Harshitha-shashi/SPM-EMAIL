@@ -2,10 +2,6 @@
 It uses machine learning models to predict whether the email is spam or ligitimate.
 
 
-Best thing would be to follow my blog-post for implementation. 
-The description about the steps to build a spam filter from scratch can be read from my blog:
-
-https://appliedmachinelearning.wordpress.com/2017/01/23/nlp-blog-post/
 
 It is a python implementation using Naive Bayes Classifier and Support Vector Machines from Scikit-learn ML library.
 
