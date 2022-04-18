@@ -1,8 +1,5 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Jan 27 22:53:50 2017
 
-@author: Abhijeet Singh
+@author: shashi harshitha
 """
 
 import os
